@@ -43,7 +43,8 @@ wikidataのタグを追加したことで「ラーメン二郎」自体の名称
 ## Acknowledgements/謝辞:
 本研究を進めるにあたり青山学院大学地球社会共生学部教授の古橋大地（@mapconcierge）氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
-
+プレゼン
+https://docs.google.com/presentation/d/1iqkmNKbN3XjBRiMiWt-4SuJn2JCaIvxopRj32U5ZhvA/edit#slide=id.gb881f3b244_0_113
 
 参考文献
 https://docs.google.com/spreadsheets/d/1HY2Xs53Ov_mdDkS149Kwn3oSsAPGMFlYUOMafZUhiGc/edit?usp=sharing
