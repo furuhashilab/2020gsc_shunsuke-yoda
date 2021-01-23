@@ -46,4 +46,4 @@ wikidataのタグを追加したことで「ラーメン二郎」自体の名称
 
 
 参考文献
-https://docs.google.com/spreadsheets/d/1HY2Xs53Ov_mdDkS149Kwn3oSsAPGMFlYUOMafZUhiGc/edit#gid=0
+https://docs.google.com/spreadsheets/d/1HY2Xs53Ov_mdDkS149Kwn3oSsAPGMFlYUOMafZUhiGc/edit?usp=sharing
