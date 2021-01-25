@@ -46,6 +46,11 @@ wikidataのタグを追加したことで「ラーメン二郎」自体の名称
 プレゼン
 https://docs.google.com/presentation/d/1iqkmNKbN3XjBRiMiWt-4SuJn2JCaIvxopRj32U5ZhvA/edit#slide=id.gb881f3b244_0_113
 
-参考文献
+参考文献リスト
 https://docs.google.com/spreadsheets/d/1HY2Xs53Ov_mdDkS149Kwn3oSsAPGMFlYUOMafZUhiGc/edit?usp=sharing
 
+渡辺氏卒論
+https://docs.google.com/document/d/1ZHgPC9dctxyxneaca7BJE46A55MHmba_xuZc7RGYYDE/edit#
+
+進捗プロジェクト
+https://github.com/furuhashilab/sotsuron2020/projects/2
