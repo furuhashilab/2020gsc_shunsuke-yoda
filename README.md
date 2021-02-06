@@ -4,7 +4,7 @@
 
 2021 ゼミ論
 
-日本全国のラーメン二郎店舗位置情報オープン化とメタデータオープン化の実践実践
+日本全国のラーメン二郎店舗位置情報オープン化とメタデータオープン化の実践
 Contributing for Ramen Jiro shop geolocation dataset as open data in Japan.
 ２０２１年１月２５日
 青山学院大学 地球社会共生学部 地球社会共生学科
